@@ -13,37 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/Spring Anntation.md.md",
+                "file": "spring/Spring Anntation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0bbfed6664d7ec9",
+            "id": "9af0d77d34728a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/SpringBoot Anntaion.md.md",
+                "file": "springboot/SpringProperties.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab3d331d637fc9a8",
+            "id": "351846a4e3b17e48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/SpringBootSyntax.md.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bec562f5c2fed7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "springboot/lombok.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/Spring Anntation.md.md",
+                "file": "springboot/lombok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/Spring Anntation.md.md",
+                "file": "springboot/lombok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/Spring Anntation.md.md"
+                "file": "springboot/lombok.md"
               }
             }
           }
@@ -170,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bddc32b7dd2b2616",
+  "active": "0bec562f5c2fed7b",
   "lastOpenFiles": [
-    "spring/SpringBootSyntax.md.md",
-    "spring/Spring Anntation.md.md",
-    "spring/SpringBoot Anntaion.md.md",
-    "spring/spring.md"
+    "Untitled.md",
+    "springboot/SpringProperties.md",
+    "spring/Spring Anntation.md",
+    "spring/spring.md",
+    "springboot/SpringBootSyntax.md",
+    "springboot/SpringBoot Anntaion.md"
   ]
 }
