@@ -1,4 +1,5 @@
 
 
 * SpringBootApplication
-* 
+* RestController
+* @RequestMapping("/users")
